@@ -9,7 +9,7 @@ theme:
 if you want to add line number
 ```py linenums='1'
 ```
-## Vist this link for tutorial https://ashishbindra2.github.io/workshop/
+## Vist this link for tutorial https://ashish-bindra.github.io/learn_api/API/
 to install
 - pip install mkdocs-material
 
@@ -38,6 +38,6 @@ How to Diploy:
 ----------
 
 create a folder
-github
+.github
    |----workflows
             |----->ci.yml
