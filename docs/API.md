@@ -1,4 +1,6 @@
-# Django Rest Framework (Restfull api)
+# DRF
+
+## Django Rest Framework (Restfull api)
 
 - Django application without REST API is like a human being without hands and legs.
 - It is very, very easy technology and small technology.
@@ -31,7 +33,7 @@ List of apis  types
 
 - The interface of communication between the user and application over the web by using
    HTTP is nothing but Web API.
-- ![img.png](img.png)
+- ![img.png](img/img.png)
 - Eg1: By using API, a java application can communicate with a python application.
       Bookmyshow application can communicate with Payment gateway application to
       complete our booking.
@@ -105,7 +107,7 @@ There are 2 types of web services
 - To describe SOAP based web services we have to use a special language: WSDL (Web Service Description Language).
 - SOAP based web services are more secured. We can consume by using RPC Method calls. These web services can provide support for multiple protocols like HTTP, SMTP, FTP etc
 
-#### Limitations
+### Limitations
 
 1. SOAP Based web services will always provide data only in XML format. Parsing of this XML data is very slow, which creates performance problems.
 2. Transfter of XML data over network requires more bandwidth.
