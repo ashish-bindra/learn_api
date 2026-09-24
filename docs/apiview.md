@@ -57,9 +57,7 @@ views.py => Business logic
 
 -----------------------------------------
 
-## How to use APIViews to perform CRUD Operations
-
-----------------------------------------------
+## How to use APIViews to perform CRUD Operation
 
 APIView
 ListAPIView =>List out all records

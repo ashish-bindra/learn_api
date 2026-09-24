@@ -1,5 +1,6 @@
 
-## Mkdocs
+# Mkdocs
+
 ```
 theme:
   name: material
@@ -7,34 +8,40 @@ theme:
 ```
 
 if you want to add line number
+
 ```py linenums='1'
 ```
-## Vist this link for tutorial https://ashish-bindra.github.io/learn_api/API/
+
+## Vist this link for tutorial <https://ashish-bindra.github.io/learn_api/API/>
+
 to install
+
 - pip install mkdocs-material
 
 to create mkdocs
+
 - mkdocs new .
--   it create 2 files
+- it create 2 files
+
 1. mkdocs.yml
 2. docs\index.md
 
 to run server
 
-- mkdocs serve 
+- mkdocs serve
 
 Interview Question
 --------------
+
 1. implement model api
 2. implement aoth and login api
-6. open source libray fetch and display 
+3. open source libray fetch and display
 
+4. pandas pdf manupulation
+5. pandas data cleaing
+6. pandas pdf view =: No we cant
 
-3. pandas pdf manupulation
-4. pandas data cleaing
-5. pandas pdf view =: No we cant
-
-How to Diploy:
+How to Diploy
 ----------
 
 create a folder

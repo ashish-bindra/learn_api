@@ -17,5 +17,6 @@
 13. <https://reqres.in/>
 14. <https://apipheny.io/free-api/>
 15. <https://freeapi.hashnode.space/>
-
+https://picsum.photos/v2/list?page=1&limi
+https://mockapi.io/signupt=20
 > best [freeAPI](https://freeapi.app/)
